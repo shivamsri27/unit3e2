@@ -1,0 +1,22 @@
+#navbar {
+    display: flex;
+    gap: 25px;
+    margin-left: 80%;
+}
+
+#bucket {
+    cursor: pointer;
+}
+
+#menu {
+    margin-top: 35px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 100px;
+    text-align: center;
+}
+
+#img {
+    height: 200px;
+    width: 200px;
+}
